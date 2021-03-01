@@ -6,19 +6,11 @@ I'm Anujkumar Yadav a Front-End Web Developer and Content Creator on [Instagram]
 
 [![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TheRealAnujK)](https://twitter.com/TheRealAnujK) [![Mail Badge](https://img.shields.io/badge/-nightcoderr_-e74c3c?style=flat&labelColor=e74c3c&logo=instagram&logoColor=white)](https://www.instagram.com/nightcoderr_/) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujkumar-yadav-29b2521aa/) 
 
-<!-- TODO: Add last video link -->
-
 - 🔭 I’m currently learning @Rect
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: anujf0510@gmail.com.
 - 😄 Pronouns: nightcoderr, anuj.
 - ⚡ Fun fact: I play games and go to the GYM very often.
-
-#### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
 ### Languages
 
@@ -44,9 +36,3 @@ I'm Anujkumar Yadav a Front-End Web Developer and Content Creator on [Instagram]
 <br />
 <br />
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
