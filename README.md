@@ -4,7 +4,7 @@ I'm Anujkumar Yadav a Front-End Web Developer and Content Creator on [Instagram]
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TheRealAnujK)](https://twitter.com/TheRealAnujK) [![Mail Badge](https://img.shields.io/badge/-nightcoderr_-e74c3c?style=flat&labelColor=e74c3c&logo=instagram&logoColor=white)](https://www.instagram.com/nightcoderr_/) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujkumar-yadav-29b2521aa/) 
+[![Twitter Badge](https://img.shields.io/badge/-@TheRealAnujK-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TheRealAnujK)](https://twitter.com/TheRealAnujK) [![Mail Badge](https://img.shields.io/badge/-nightcoderr_-e74c3c?style=flat&labelColor=e74c3c&logo=instagram&logoColor=white)](https://www.instagram.com/nightcoderr_/) [![Linkedin Badge](https://img.shields.io/badge/-Anujkumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujkumar-yadav-29b2521aa/) 
 
 - 🔭 I’m currently learning @Rect
 - :computer: Most used line of code `git commit -m "Initial Commit"`
@@ -14,13 +14,12 @@ I'm Anujkumar Yadav a Front-End Web Developer and Content Creator on [Instagram]
 
 ### Languages
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmltutorial]
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascripttutorial]
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscodetutorial]
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
