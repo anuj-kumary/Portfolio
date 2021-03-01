@@ -6,7 +6,7 @@ I'm Anujkumar Yadav a Front-End Web Developer and Content Creator on [Instagram]
 
 [![Twitter Badge](https://img.shields.io/badge/-@TheRealAnujK-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TheRealAnujK)](https://twitter.com/TheRealAnujK) [![Mail Badge](https://img.shields.io/badge/-nightcoderr_-e74c3c?style=flat&labelColor=e74c3c&logo=instagram&logoColor=white)](https://www.instagram.com/nightcoderr_/) [![Linkedin Badge](https://img.shields.io/badge/-Anujkumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujkumar-yadav-29b2521aa/) 
 
-- 🔭 I’m currently learning @Rect
+- 🔭 I’m currently learning @React
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: anujf0510@gmail.com.
 - 😄 Pronouns: nightcoderr, anuj.
