@@ -336,8 +336,23 @@ p {
 #projects .project-item:hover .project-img img {
 	transform: scale(1.1);
 }
-#projects .all-projects .cta .load{
-	color:black;
+.button {
+	padding: 10px 30px;
+	color: black;
+	background-color: transparent;
+	border: 2px solid crimson;
+	font-size: 2rem;
+	text-transform: uppercase;
+	letter-spacing: .1rem;
+	margin-top: 30px;
+        text-align: center;
+        display:inline-block;
+	text-decoration: none !important;
+        transition: all 0.2s ease-in-out;
+}
+.button:hover{
+	color: white;
+	background-color: crimson;
 }
 /* End Projects section */
 
