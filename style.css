@@ -336,6 +336,9 @@ p {
 #projects .project-item:hover .project-img img {
 	transform: scale(1.1);
 }
+#projects .all-projects .cta .load{
+	color:black;
+}
 /* End Projects section */
 
 /* About Section */
