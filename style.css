@@ -242,6 +242,11 @@ p{
 	animation: text_reveal .5s ease forwards;
 	animation-delay: 1s;
 }
+#hero .tag{
+	color: transparent;
+	animation: text_reveal .5s ease forwards;
+	animation-delay: 1s;
+}
 #hero h1:nth-child(1) {
 	animation-delay: 1s;
 }
@@ -251,6 +256,10 @@ p{
 #hero h1:nth-child(3) {
 	animation: text_reveal_name .5s ease forwards;
 	animation-delay: 3s;
+}
+#hero .tag:nth-child(4){
+	animation: text_reveal_name .5s ease forwards;
+	animation-delay: 4s;
 }
 #hero h1 span {
 	position: absolute;
@@ -270,6 +279,9 @@ p{
 }
 #hero h1:nth-child(3) span {
 	animation-delay: 2.5s;
+}
+#hero .tag:nth-child(4) span {
+	animation-delay: 3.2s;
 }
 
 /* End Hero Section */
@@ -449,7 +461,10 @@ h1{
 }
 #about .col-right p {
 	margin-bottom: 20px;
+	font-weight: 300;
+	font-size: 1.5rem;
 }
+
 #about .col-right .cta {
 	color: black;
 	margin-bottom: 50px;
