@@ -7,6 +7,7 @@
 :root{
 	--primary-color :#7C3AED;
 	--faint-gray: rgb(208, 211, 214);
+	--dark-gray: #6B7280;
 }
 html {
 	font-size: 10px;
@@ -268,6 +269,13 @@ p{
 
 /* Project Section */
 
+#header .headers {
+	min-height: 8vh;
+	/* background-color: rgba(31, 30, 30, 0.24); */
+	transition: .3s ease background-color;
+	background: #111;
+}
+
 .section{
 	text-align: center;
 	padding: 2rem 2rem 3rem;
@@ -490,6 +498,81 @@ ul.skills-list li::before {
 	font-size: 1.3rem;
 }
 /* End Footer */
+
+
+
+/* Project CSS */
+.heros{
+    padding: 2rem;
+}
+
+.heros .hero-heading{
+	margin-top: 10rem;
+	margin-bottom: 3rem;
+    text-align: center;
+    padding-top: 1rem;
+    color: var(--dark-gray);
+	font-size: 3.5rem;
+}
+
+.heros .hero-heading .heading-inverted{
+    color: var(--primary-color);
+}
+.fluid-container{
+	display: flex;
+	flex-direction: column;
+	font-family: 'Poppins', sans-serif;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+}
+.article-padding p{ 
+    padding: 0rem 0rem 0.5rem;    
+    margin-top: 0.4rem;
+    font-size: 16px;
+}
+.article-padding h1{
+    font-size: 3rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: var(--moreDarkGray); 
+}
+.article time{
+    font-size: 18px;
+	margin-bottom: 1.5rem;
+	color: var(--dark-gray);
+}
+.olPadding{
+    margin-block-start: 1rem;
+    margin-inline-start: 0.7rem;
+    margin-inline-end: 0.7rem;
+    padding-inline-start: 2rem;
+    padding-inline-end: 0.5rem;
+}
+.fontOfNumbers a{
+    font-size: 16px;
+}
+.fontOfNumbers li{
+    font-size: 1.3rem;
+    color: var(--moreDarkGray); 
+}
+
+.article {
+    margin-bottom: 2rem;
+}
+.btn1{
+	 padding: .8rem;
+	 border-radius: .5rem;
+	 outline: none;
+	 border-style: none;
+	 background-color: #fff;
+	 border: 1px solid var(--primary-color);
+}
+.link{
+	color: #fff;
+	text-decoration: none;
+}
+
 
 /* Keyframes */
 @keyframes hamburger_puls {
