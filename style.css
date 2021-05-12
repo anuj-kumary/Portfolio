@@ -4,6 +4,10 @@
 	margin: 0;
 	box-sizing: border-box;
 }
+:root{
+	--primary-color :#7C3AED;
+	--faint-gray: rgb(208, 211, 214);
+}
 html {
 	font-size: 10px;
 	font-family: 'Montserrat', sans-serif;
@@ -24,12 +28,18 @@ img {
 	width: 100%;
 	object-fit: cover;
 }
-p {
+/* p {
 	color: black;
 	font-size: 1.4rem;
 	margin-top: 5px;
 	line-height: 2.5rem;
 	font-weight: 300;
+	letter-spacing: .05rem;
+} */
+p{
+	font-size: 2rem;
+    font-weight: 400;
+	margin-top: 5px;
 	letter-spacing: .05rem;
 }
 .section-title {
@@ -266,7 +276,7 @@ p {
 
 
 /* Projects section */
-#projects .projects {
+/* #projects .projects {
 	flex-direction: column;
 	max-width: 1200px;
 	margin: 0 auto;
@@ -353,7 +363,67 @@ p {
 .button:hover{
 	color: white;
 	background-color: crimson;
+} */
+.body{
+	width: 100%;
+    max-width: 600px;
+    margin: auto;
 }
+.section{
+	text-align: center;
+	padding: 2rem 2rem 3rem;
+	width: 100%;
+    max-width: 600px;
+    margin: auto;
+}
+h1{
+	margin-top: 2rem;
+	font-weight: 800;
+	font-size: 2rem;
+}
+.ow{
+	
+	background-color: var(--faint-gray);
+}
+.btn{
+	margin-top: 2rem;
+    text-decoration: none;
+    padding: .5rem;
+    background-color: var(--primary-color);
+    border-radius: .5rem;
+    outline: none;
+    border-style: none;
+}
+ .link{
+	text-decoration: none;
+	color: #fff;
+	font-size: 1.2rem;
+	font-weight: 600;
+	padding: .2rem .3rem;
+	letter-spacing: .05rem;
+}
+.btn-primary{
+	margin-top: 2rem;
+    text-decoration: none;
+    padding: .5rem;
+    background-color: #fff;
+    border-radius: .5rem;
+    outline: none;
+    border-style: none;
+}
+
+.link-primary{
+	text-decoration: none;
+	color: var(--primary-color);
+	border: 1px solid var(--primary-color);
+	font-size: 1.2rem;
+	font-weight: 600;
+	padding: .5rem;
+	letter-spacing: .05rem;
+    border-radius: .5rem;
+}
+
+
 /* End Projects section */
 
 /* About Section */
