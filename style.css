@@ -271,7 +271,6 @@ p{
 
 #header .headers {
 	min-height: 8vh;
-	/* background-color: rgba(31, 30, 30, 0.24); */
 	transition: .3s ease background-color;
 	background: #111;
 }
@@ -283,13 +282,14 @@ p{
     max-width: 600px;
     margin: auto;
 	margin-top: 3rem;
+	margin-bottom: 1rem;
 }
 
 .heading{
 	font-size: 3.5rem;
 	font-weight: 600;
 	margin-bottom: 1.5rem;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 .ow{
 	background-color: var(--faint-gray);
@@ -308,37 +308,39 @@ ul.skills-list {
     list-style: none;
 	align-items: center;
  	justify-content: center;
+	 
 }
 ul.skills-list li {
     position: relative;
     margin-bottom: 10px;
     padding-left: 20px;
-	font-size: 1.3rem;
+	font-size: 1.5rem;
 	font-weight: 600;
 }
 ul.skills-list li::before {
     content: "▹";
     position: absolute;
     left: 40px;
-    color: green;
+    color: #7C3AED;
     font-size: var(--fz-sm);
     line-height: 12px;
 }
 .btn{
 	margin-top: 2rem;
     text-decoration: none;
-    padding: .8rem;
+    padding: 1.2rem;
     background-color: var(--primary-color);
     border-radius: .5rem;
     outline: none;
+	
     border-style: none;
 }
+
  .link{
 	text-decoration: none;
-	color: #fff;
-	font-size: 1.5rem;
+	font-size: 1.6rem;
 	font-weight: 600;
-	padding: 1rem;
+	color: #fff;
 	letter-spacing: .05rem;
 }
 .btn-primary{
@@ -355,9 +357,10 @@ ul.skills-list li::before {
 	text-decoration: none;
 	color: var(--primary-color);
 	border: 1px solid var(--primary-color);
-	font-size: 1.5rem;
+	font-size: 1.6rem;
 	font-weight: 600;
 	padding: 1rem;
+	color: #111;
 	letter-spacing: .05rem;
     border-radius: .5rem;
 }
@@ -419,7 +422,7 @@ ul.skills-list li::before {
 #contact .contact {
 	flex-direction: column;
 	max-width: 1200px;
-	margin: 0 auto;
+	margin: 5rem auto;
 }
 #contact .contact-items {
 	width: 400px;
@@ -513,6 +516,7 @@ ul.skills-list li::before {
     padding-top: 1rem;
     color: var(--dark-gray);
 	font-size: 3.5rem;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .heros .hero-heading .heading-inverted{
@@ -536,6 +540,7 @@ ul.skills-list li::before {
     font-weight: 600;
     margin-bottom: 1rem;
     color: var(--moreDarkGray); 
+	font-family: 'Montserrat', sans-serif;
 }
 .article time{
     font-size: 18px;
@@ -569,7 +574,7 @@ ul.skills-list li::before {
 	 border: 1px solid var(--primary-color);
 }
 .link{
-	color: #fff;
+	/* color: #fff; */
 	text-decoration: none;
 }
 
