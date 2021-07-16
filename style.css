@@ -332,7 +332,8 @@ ul.skills-list li::before {
     background-color: var(--primary-color);
     border-radius: .5rem;
     outline: none;
-	
+	letter-spacing: 1.2px;
+	transition: all .2s ease-in;
     border-style: none;
 }
 
@@ -342,7 +343,7 @@ ul.skills-list li::before {
 	font-weight: 600;
 	color: #fff;
 	letter-spacing: .05rem;
-}
+ }
 .btn-primary{
 	margin-top: 2rem;
     text-decoration: none;
@@ -351,8 +352,8 @@ ul.skills-list li::before {
     border-radius: 1rem;
     outline: none;
     border-style: none;
+	transition: all .2s ease-in;
 }
-
 .link-primary{
 	text-decoration: none;
 	color: var(--primary-color);
@@ -363,6 +364,12 @@ ul.skills-list li::before {
 	color: #111;
 	letter-spacing: .05rem;
     border-radius: .5rem;
+	transition: all .2s ease-in;
+}
+.link-primary:hover{
+	background-color: #dc143c;
+	border-style: none;
+	color: #fff;
 }
 
 /* End Projects section */
@@ -574,11 +581,11 @@ ul.skills-list li::before {
 	 border: 1px solid var(--primary-color);
 }
 .link{
-	/* color: #fff; */
 	text-decoration: none;
 }
-
-
+.btn:hover{
+	background-color: #dc143c;
+}
 /* Keyframes */
 @keyframes hamburger_puls {
 	0% {
