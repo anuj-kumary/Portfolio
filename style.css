@@ -63,7 +63,7 @@ p{
 	transition-property: background-color, color;
 }
 .cta:hover {
-	color: white;
+	color: white !important;
 	background-color:#7C3AED;
 }
 .brand h1 {
@@ -342,7 +342,7 @@ ul.skills-list li::before {
 	font-size: 1.6rem;
 	font-weight: 600;
 	color: #fff;
-	letter-spacing: .05rem;
+	letter-spacing: .2rem;
  }
 .btn-primary{
 	margin-top: 2rem;
@@ -361,6 +361,7 @@ ul.skills-list li::before {
 	font-size: 1.6rem;
 	font-weight: 600;
 	padding: 1rem;
+	letter-spacing: .2rem;
 	color: #111;
 	letter-spacing: .05rem;
     border-radius: .5rem;
