@@ -295,7 +295,7 @@ p{
 	background-color: var(--faint-gray);
 }
 .para{
-	margin-top: 2rem;
+	margin: 2rem 0;
 	font-weight: 500;
 	font-size: 1.5rem;
 }
@@ -325,35 +325,26 @@ ul.skills-list li::before {
     font-size: var(--fz-sm);
     line-height: 12px;
 }
-.btn{
-	margin-top: 2rem;
-    text-decoration: none;
-    padding: 1.2rem;
-    background-color: var(--primary-color);
-    border-radius: .5rem;
-    outline: none;
-	letter-spacing: 1.2px;
-	transition: all .2s ease-in;
-    border-style: none;
-}
 
- .link{
-	text-decoration: none;
-	font-size: 1.6rem;
-	font-weight: 600;
-	color: #fff;
-	letter-spacing: .2rem;
- }
-.btn-primary{
-	margin-top: 2rem;
-    text-decoration: none;
-    padding: .5rem;
-    background-color: #fff;
-    border-radius: 1rem;
-    outline: none;
-    border-style: none;
-	transition: all .2s ease-in;
+.description{
+	margin-bottom: 1rem;
 }
+ .link{
+	 background-color: var(--primary-color);
+	 padding: 1rem;
+	 border-radius: 5px;
+	 color: #fff;
+	 text-decoration: none;
+	 font-size: 1.6rem;
+	 font-weight: 600;
+	 transition: all .2s ease-in;
+ }
+ .link:hover{
+	 background-color:transparent;
+	 border: 1px solid var(--primary-color);
+	 color: #111;
+ }
+
 .link-primary{
 	text-decoration: none;
 	color: var(--primary-color);
@@ -368,7 +359,7 @@ ul.skills-list li::before {
 	transition: all .2s ease-in;
 }
 .link-primary:hover{
-	background-color: #dc143c;
+	background-color:var(--primary-color);
 	border-style: none;
 	color: #fff;
 }
