@@ -21,7 +21,6 @@ html {
 
 a {
 	text-decoration: none;
-	color: #111;
 }
 
 .container {
@@ -329,7 +328,7 @@ p {
 	font-size: 3.5rem;
 	font-weight: 500;
 	margin-bottom: 1.5rem;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Noto Serif', serif;
 }
 
 .ow {
@@ -485,7 +484,7 @@ ul.skills-list li::before {
 .project-container {
 	display: flex;
 	flex-direction: column;
-	padding-top: 5rem;
+	padding: 5rem 0;
 }
 
 .cards {
@@ -531,14 +530,6 @@ ul.skills-list li::before {
 .button {
 	margin-bottom: 2rem;
 	height: 3rem;
-}
-
-.more {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	margin-top: 2rem;
-	font-size: 1.5rem;
 }
 
 .techstack-btn {
@@ -691,6 +682,7 @@ ul.skills-list li::before {
 	padding-top: 1rem;
 	color: var(--dark-gray);
 	font-size: 3.5rem;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .heros .hero-heading .heading-inverted {
@@ -717,7 +709,7 @@ ul.skills-list li::before {
 	font-weight: 600;
 	margin-bottom: 1rem;
 	color: var(--moreDarkGray);
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .article time {

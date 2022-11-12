@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Poppins:wght@200;300;400&display=swap');
+@import 'https://fonts.googleapis.com/css?family=Montserrat:300, 400, 700&display=swap';
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&display=swap');
 
 * {
 	padding: 0;
@@ -14,14 +15,13 @@
 
 html {
 	font-size: 10px;
-	font-family: 'Noto Serif', serif;
+	font-family: 'Montserrat', sans-serif;
 	font-family: 'Poppins', sans-serif;
 	scroll-behavior: smooth;
 }
 
 a {
 	text-decoration: none;
-	color: #111;
 }
 
 .container {
@@ -327,9 +327,9 @@ p {
 
 .heading {
 	font-size: 3.5rem;
-	font-weight: 500;
+	font-weight: 600;
 	margin-bottom: 1.5rem;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .ow {
@@ -485,7 +485,7 @@ ul.skills-list li::before {
 .project-container {
 	display: flex;
 	flex-direction: column;
-	padding-top: 5rem;
+	padding: 5rem 0;
 }
 
 .cards {
@@ -531,14 +531,6 @@ ul.skills-list li::before {
 .button {
 	margin-bottom: 2rem;
 	height: 3rem;
-}
-
-.more {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	margin-top: 2rem;
-	font-size: 1.5rem;
 }
 
 .techstack-btn {
@@ -691,6 +683,7 @@ ul.skills-list li::before {
 	padding-top: 1rem;
 	color: var(--dark-gray);
 	font-size: 3.5rem;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .heros .hero-heading .heading-inverted {
@@ -717,7 +710,7 @@ ul.skills-list li::before {
 	font-weight: 600;
 	margin-bottom: 1rem;
 	color: var(--moreDarkGray);
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .article time {

@@ -21,7 +21,6 @@ html {
 
 a {
 	text-decoration: none;
-	color: #111;
 }
 
 .container {
@@ -485,7 +484,7 @@ ul.skills-list li::before {
 .project-container {
 	display: flex;
 	flex-direction: column;
-	padding-top: 5rem;
+	padding: 5rem 0;
 }
 
 .cards {
@@ -538,7 +537,6 @@ ul.skills-list li::before {
 	justify-content: center;
 	align-items: center;
 	margin-top: 2rem;
-	font-size: 1.5rem;
 }
 
 .techstack-btn {
@@ -691,6 +689,7 @@ ul.skills-list li::before {
 	padding-top: 1rem;
 	color: var(--dark-gray);
 	font-size: 3.5rem;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .heros .hero-heading .heading-inverted {
